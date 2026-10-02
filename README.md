@@ -1,2 +1,9 @@
-# hymnal-rack-lip
-Hymnal Rack Lip Issue 001 — file before any Whop listing. Ruth, aisle usher. $15/mo after attach. 30% affiliates.
+# Hymnal Rack Lip
+
+Issue 001 ships before any Whop listing.
+
+- Buyer: Ruth, 52, aisle usher, pew 4
+- Job: one direction under eight seconds
+- Price after attach: $15/month
+- Affiliates: 30% global, only after the PDF is on the product
+- Do not list empty
